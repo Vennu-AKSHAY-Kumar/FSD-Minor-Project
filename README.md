@@ -1,1 +1,1 @@
-# FSD-Minor-Project
+To view the project : fsdproject.vercel.app
